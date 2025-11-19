@@ -1,1 +1,1 @@
-This folder contains the deidentified data files necessary for all analyses, as well as the R file of GAMM functions (that code was written by Dr. Ursula Tooley, please see https://github.com/utooley/Tooley2023_prenatal_env_cortical_network_dev/tree/main/gamm_models for the original location of that file).
+This folder contains the deidentified data files necessary for all analyses.  
